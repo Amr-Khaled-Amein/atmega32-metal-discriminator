@@ -1,0 +1,18 @@
+# Private team contact details
+Names&IDs.xlsx
+
+# MPLAB X build output and per-user settings
+**/build/
+**/dist/
+**/debug/
+**/.generated_files/
+**/nbproject/private/
+*.o
+*.o.d
+*.elf
+*.map
+
+# Python
+__pycache__/
+*.pyc
+.venv/
