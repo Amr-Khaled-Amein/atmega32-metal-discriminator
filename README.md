@@ -1,8 +1,8 @@
 <div align="center">
 
-# Pulse Induction Metal Classifier
+# ATmega32 Metal Discriminator
 
-**A real-time metal detector that identifies *which* metal it sees, built on a bare-metal AVR ATmega32A.**
+**A real-time pulse induction metal detector that identifies *which* metal it sees, built on a bare-metal AVR ATmega32A.**
 
 ![C](https://img.shields.io/badge/C-AVR--GCC-00599C?logo=c&logoColor=white)
 ![MCU](https://img.shields.io/badge/MCU-ATmega32A-CC0000?logo=microchip&logoColor=white)
