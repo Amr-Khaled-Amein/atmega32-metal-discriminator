@@ -1,25 +1,11 @@
-<div align="center">
-
 # ATmega32 Metal Discriminator
 
-**A real-time pulse induction metal detector that identifies *which* metal it sees, built on a bare-metal AVR ATmega32A.**
-
-![C](https://img.shields.io/badge/C-AVR--GCC-00599C?logo=c&logoColor=white)
-![MCU](https://img.shields.io/badge/MCU-ATmega32A-CC0000?logo=microchip&logoColor=white)
-![IDE](https://img.shields.io/badge/IDE-MPLAB%20X-E4002B)
-![Python](https://img.shields.io/badge/Analysis-Python-3776AB?logo=python&logoColor=white)
-![Accuracy](https://img.shields.io/badge/Accuracy-80.6%25-success)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-<br>
+A real-time pulse induction metal detector that identifies which metal it sees, built on a
+bare-metal AVR ATmega32A in C. 80.6% accuracy over 160 labeled scans.
 
 <img src="docs/images/hero.jpg" alt="The finished detector identifying a silver sample at 96% confidence" width="340">
 
-<sub>The finished build identifying a silver sample at 96% confidence.</sub>
-
-</div>
-
----
+*The finished build identifying a silver sample at 96% confidence.*
 
 ## Overview
 
